@@ -27,7 +27,7 @@ We're seeking a new name for themes spanning CAE / HPC / AI
 
 ## Contacts
 
-Please visit the [_Discussions_ area](https://github.com/aiaa-deic/computation-ai/discussions)
+Please visit the [_Discussions_](https://github.com/aiaa-deic/computation-ai/discussions) area
 to join in on the conversation.
 
 You should also feel free to raise an issue in the repository to get help or ask a question.
