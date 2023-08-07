@@ -1,5 +1,5 @@
 <p>
-  <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/computation-ai/main/docs/public/img/darkLogo.png">
+  <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/devsecops/main/docs/public/img/darkLogo.png">
   <br/>
   American Institute of Aeronautics and Astronautics (AIAA) Digital Engineering Integration Committee (DEIC) Computation-AI Subcommittee
 </p>
@@ -27,7 +27,7 @@ We're seeking a new name for themes spanning CAE / HPC / AI
 
 ## Contacts
 
-Please visit the (_Discussions_ area](https://github.com/aiaa-deic/computation-ai/discussions)
+Please visit the [_Discussions_ area](https://github.com/aiaa-deic/computation-ai/discussions)
 to join in on the conversation.
 
 You should also feel free to raise an issue in the repository to get help or ask a question.
