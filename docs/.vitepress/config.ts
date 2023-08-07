@@ -4,7 +4,8 @@ import { defineConfig } from "vitepress"
 export default defineConfig({
   lang: "en-US",
   title: "AIAA DEIC Computation AI",
-  description: "A documentation site for the AIAA DEIC Computation AI Subcommittee",
+  description:
+    "A documentation site for the AIAA DEIC Computation AI Subcommittee",
   lastUpdated: true,
   head: [
     [
@@ -57,7 +58,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     siteTitle: "AIAA-DEIC Computation AI",
     editLink: {
-      pattern: "https://github.com/aiaa-deic/computation-ai/edit/main/docs/:path",
+      pattern:
+        "https://github.com/aiaa-deic/computation-ai/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
     search: {
