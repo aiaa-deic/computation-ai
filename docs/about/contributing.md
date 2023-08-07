@@ -34,4 +34,4 @@ To add content, you'll need to write markdown files and then add them to the app
 If you aren't familiar with Markdown, _markdownguide.org_ has a [useful guide available](https://www.markdownguide.org/basic-syntax/).
 There is also a [VitePress specific guide available](https://vitepress.dev/guide/markdown) which lists specific features above and beyond what is available with standard markdown.
 
-As above, if you have any problems
+As above, if you have any problems, please raise an [issue](https://github.com/aiaa-deic/computation-ai/issues).
