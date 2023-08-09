@@ -30,3 +30,10 @@ features:
     details: We would love for you to help out!
     link: "/about/contributing"
 ---
+<style>
+body:has(.is-home) { 
+  background: radial-gradient(84.71% 59.83% at 0% 90%, rgba(54, 87, 132, 0.74) 5.73%, rgba(54, 87, 132, 0.00) 100%) !important;
+  transform: rotate(0deg) !important;
+  transform-origin: 0 0 !important;
+}
+</style>
