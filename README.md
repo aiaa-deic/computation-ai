@@ -1,9 +1,9 @@
 <p>
   <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/computation-ai/main/docs/public/img/darkLogo.png">
   <br/>
-  American Institute of Aeronautics and Astronautics (**AIAA**) <br/>
-  Digital Engineering Integration Committee (**DEIC**) <br/>
-  Computational Design and Analysis for Digital Engineering (**CoDADE**) Subcommittee
+  American Institute of Aeronautics and Astronautics (AIAA) <br/>
+  Digital Engineering Integration Committee (DEIC) <br/>
+  Computational Design and Analysis for Digital Engineering (CoDADE) Subcommittee
 </p>
 <p>
   <a href="https://github.com/aiaa-deic/computation-ai/actions/workflows/deployToGitHubPages.yaml"><img src="https://github.com/aiaa-deic/computation-ai/actions/workflows/deployToGitHubPages.yaml/badge.svg?branch=main"></a>
