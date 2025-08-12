@@ -1,7 +1,9 @@
 <p>
   <img alt="AIAA Logo" width="350" style="margin-bottom: 25px;" src="https://raw.githubusercontent.com/aiaa-deic/computation-ai/main/docs/public/img/darkLogo.png">
   <br/>
-  American Institute of Aeronautics and Astronautics (AIAA) Digital Engineering Integration Committee (DEIC) Computation-AI Subcommittee
+  American Institute of Aeronautics and Astronautics (**AIAA**) <br/>
+  Digital Engineering Integration Committee (**DEIC**) <br/>
+  Computational Design and Analysis for Digital Engineering (**CoDADE**) Subcommittee
 </p>
 <p>
   <a href="https://github.com/aiaa-deic/computation-ai/actions/workflows/deployToGitHubPages.yaml"><img src="https://github.com/aiaa-deic/computation-ai/actions/workflows/deployToGitHubPages.yaml/badge.svg?branch=main"></a>
@@ -16,18 +18,13 @@
 
 ## Overview
 
-This is the main repository for the AIAA DEIC Computation-AI Subcommittee.
-It contains the source code for the [subcommittee website](https://compai.aiaadeic.org)
-and is the main location for collaboration for the subcommittee.
+This is the main repository for the AIAA DEIC CoDADE Subcommittee.
+It contains the source code for the [subcommittee website](https://compai.aiaadeic.org) and is the main location for collaboration for the subcommittee.
 
-This is also the launching forum regarding computer-aided-engineering + hpc + AI topics.
-
-We're seeking a new name for themes spanning CAE / HPC / AI
-(Computational Methods for Engineering? Scalable Computation Analytics and Syntheses ...)
+This is also the launching forum regarding **computer-aided-engineering + hpc + AI** topics.
 
 ## Contacts
 
-Please visit the [_Discussions_](https://github.com/aiaa-deic/computation-ai/discussions) area
-to join in on the conversation.
+Please visit the [_Discussions_](https://github.com/aiaa-deic/computation-ai/discussions) area to join in on the conversation.
 
 You should also feel free to raise an issue in the repository to get help or ask a question.
